@@ -1,0 +1,1 @@
+Simple command line utility to read a file and send his bytes to the stdout
